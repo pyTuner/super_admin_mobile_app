@@ -11,7 +11,6 @@ export default App = () => {
   return (
     <NavigationContainer>
       <MainNavigator />
-      {/* <DrawerNavigator /> */}
     </NavigationContainer>
   )
 }
